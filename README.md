@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer engineering student at Galatasaray University.<br>I am interested in web programming and game development.
+I am a computer engineering student at Galatasaray University.<br>I am interested in web programming and game development. <br>I'm trying to increase my use of github.
 
 
 ## 🌐 Socials:
